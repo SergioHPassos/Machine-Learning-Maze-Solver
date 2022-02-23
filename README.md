@@ -4,6 +4,7 @@
 ## Table of Contents
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
+* [Screenshots](#screenshots)
 * [Project Status](#project-status)
 * [Questions](#questions)
 * [Contact](#contact)
@@ -23,6 +24,12 @@
 ## Setup
 - pip install -r /path/to/requirements.txt
 - run every cell in TreasureHuntGame.ipynb
+
+
+## Screenshots
+![Environment Setup](./imgs/environment-setup.png)
+![Target Location](./imgs/target-location.png)
+![Deep Neural Network Model Path](./imgs/DNN-path.png)
 
 
 ## Project Status
